@@ -9,3 +9,7 @@ I have used [Twilio]:http://twilio.com/ - it provides an API using which we can 
 
 ### CoWin API -
 https://apisetu.gov.in/public/marketplace/api/cowin/cowin-public-v2#/
+
+
+### Output
+[Response from the utility](https://github.com/deepakdhole777/vaccination-slots/blob/main/response.png)
